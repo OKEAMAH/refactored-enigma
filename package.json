@@ -50,7 +50,7 @@
     "@biomejs/biome": "^1.8.2",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^15.0.5",
-    "@types/jest": "^29.5.12",
+    "@types/jest": "^29.5.13",
     "graphql": "^16.9.0",
     "graphql-compiler": "^1.7.0",
     "husky": "^9.0.11",
